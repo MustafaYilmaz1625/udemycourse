@@ -16,3 +16,27 @@
     background-color: #f7f9fa;
     border-radius: 1.5rem !important;
 }
+.dark-content {
+    height: 388px;
+    padding:  2rem 0;
+    background-color: #1c1d20 !important;
+}
+
+.text-soft-purple {
+    color: #cec0fc !important;
+}
+.text-purple {
+    color: #a334ef !important;
+}
+
+.fs-19 {
+    font-size: 1.18rem !important;
+}
+
+.fs-32 {
+    font-size: 2rem !important;
+}
+
+.ls-1 {
+    letter-spacing: 1px !important;
+}
