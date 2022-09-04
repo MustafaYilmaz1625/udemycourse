@@ -1,0 +1,18 @@
+
+.nav-custom {
+    height: 72px !important;
+    background-color: #fff !important;
+}
+
+.fs-14{
+    font-size: 0.87rem !important;
+}
+
+.search-custom{
+    height: 46px !important;
+}
+
+.rounded-custom {
+    background-color: #f7f9fa;
+    border-radius: 1.5rem !important;
+}
